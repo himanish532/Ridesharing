@@ -1,0 +1,6 @@
+{
+  "name": "Taxi Ride Sharing",
+  "tagline": "Producing the shortest and cost effective route",
+  "body": "Taxi Ride Sharing is an academic project\r\n\r\nThis is a novel algorithm, which will not only provide a shortest path and the shared path for the ride but also gives the cost effective path. Here two users from different sources with same destination will be given a shared path which is shortest as well as cost effective.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
